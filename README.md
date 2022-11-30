@@ -2,7 +2,7 @@
   <img src="/assets/images/logo.png">
 </p>
 
-# Wilco Developers Documentation
+# Wilco Developers Documentation 2
 
 Welcome! This is the repository that generates [dev.trywilco.com]. It contains all the source code and Markdown files we use to build and serve our documentation.
 
